@@ -509,16 +509,16 @@ $commitCount++
 Commit "data: update PLATO telescope description with official ESA mission statement" "2" "8"
 $commitCount++
 
-Commit "data: add PLATO Space Telescope event to cosmic calendar (Dec 15 2026)" "2" "7"
+Commit "data: add PLATO Space Telescope event to cosmic calendar - Dec 15 2026" "2" "7"
 $commitCount++
 
-Commit "data: add Gaganyaan-1 test flight to calendar (Sep 20 2026)" "2" "6"
+Commit "data: add Gaganyaan-1 test flight to calendar - Sep 20 2026" "2" "6"
 $commitCount++
 
 Commit "data: update IM-3 mission description from Intuitive Machines official docs" "2" "5"
 $commitCount++
 
-Commit "data: add Supermoon (Sturgeon Moon) celestial event entry for Aug 28 2026" "2" "4"
+Commit "data: add Supermoon Sturgeon Moon celestial event entry for Aug 28 2026" "2" "4"
 $commitCount++
 
 Commit "data: remove speculative fictional mission entries from dataset" "2" "3"
